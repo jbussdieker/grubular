@@ -1,4 +1,4 @@
 :source git@github.com:moovweb
-pkg rubex
-pkg log4go
-pkg web.go
+pkg rubex 0.0.47
+pkg log4go 0.0.95
+pkg web.go 0.1.81
